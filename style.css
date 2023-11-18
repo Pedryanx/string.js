@@ -1,6 +1,12 @@
-#manipula{
+#manipula {
     height: 100%;
     color: rgb(255, 0, 200);
-    font-size: 24px;
-    background-color: rgb(0,255,21);
+    font-size: 20px;
+    background-color: rgb(0, 255, 21);
+}
+
+img {
+    margin-top: 60px;
+    width: 150px;
+    height: 150px;
 }
