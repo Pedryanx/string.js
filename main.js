@@ -103,13 +103,13 @@ function trocarCorPagina() {
 //botão 18 - trocar a imagem
 
 function trocarImagem() {
-    document.getElementById("imagem").src = "/img-2.jpg"
+    document.getElementById("imagem").src = "Ronaldo.jpg"
 }
 
 
 //botão 19 - volta para imagem 
 function trocarImagem2() {
-    document.getElementById("imagem").src = "/img-1.jpg"
+    document.getElementById("imagem").src = "Ronaldinho.jpg"
 }
 
 
